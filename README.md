@@ -6,6 +6,7 @@ Also, a listed repository should be deprecated if:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
 
+## Table of contents
 <!-- MarkdownTOC depth=4 -->
 
 - [C](#c)
