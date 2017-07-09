@@ -41,4 +41,15 @@ Also, a listed repository should be deprecated if:
 ## MATLAB
 * [MATLAB SVM Toolbox](http://www.isis.ecs.soton.ac.uk/resources/svminfo/) - It implements SVM classification and regression with various kernels: linear, polynomial, Gaussian radial basis function, exponential radial basis function, neural (tanh), Fourier series, spline, and B spline. 
 * [Spider](http://www.kyb.tuebingen.mpg.de/bs/people/spider/) - Spider is an object-oriented environment for machine learning in MATLAb that implements SVM multi-class classification and regression.
-* [LearnSC](http://www.support-vector.ws/html/downloads.html) - MATLAB scripts for the book <i>Learning and Soft Computing<i> by Kecman, implementing SVM classification and regression. 
+* [LearnSC](http://www.support-vector.ws/html/downloads.html) - MATLAB scripts for the book <i>Learning and Soft Computing</i> by Kecman, implementing SVM classification and regression. 
+* [LS-SVMLab](http://www.esat.kuleuven.ac.be/sista/lssvmlab/) - An implementation of least squares support vector machines (LS-SVM) which reformulates the standard SVM leading to solving linear KKT systems.
+* [SVM Toolbox](http://www.igi.tugraz.at/aschwaig/software.html) - This implementation can handle 1-norm or 2-norm SVM.
+* [SVM LOO](http://bach.ece.jhu.edu/pub/gert/svm/incremental/) - An efficient implementation of the leave-one-out cross-validation. 
+* [LSVM](http://www.cs.wisc.edu/dmi/lsvm/) - An SVM implementation that can classify datasets with several millions patterns.
+* [ASVM](http://www.cs.wisc.edu/dmi/asvm/) - A linear script developed for large datasets.
+* [PSVM](http://www.cs.wisc.edu/dmi/svm/psvm/) - A script that classifies patterns by assigning them to the closest of two parallel planes.
+* [OSU SVM Classifier MATLAB Toolbox](http://www.ece.osu.edu/~maj/osu_svm/) - A toolbox based on LibsSVM.
+* [SimpleSVM Toolbox](http://asi.insa-rouen.fr/~gloosli/simpleSVM.html) - An implementation of the SimpleSVM algorithm.
+* [SVM Toolbox](http://asi.insa-rouen.fr/~arakotom/toolbox/index) - A fairly complex MATLAB toolbox, containing many algorithms: classification using linear and quadratic penalization, multi-class classification, ε-regression, ν-regression, wavelet kernel, SVM feature selection. 
+* [MATLAB SVM Toolbox](http://theoval.sys.uea.ac.uk/~gcc/svm/toolbox/) - It has standard SVM features, together with multi-class classification and leave-one-out cross-validation. 
+
