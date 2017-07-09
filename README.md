@@ -11,6 +11,7 @@ Also, a listed repository should be deprecated if:
 
 - [C](#c)
 - [C++](#cpp)
+- [MATLAB](#matlab)
 -
 
 
@@ -34,4 +35,10 @@ Also, a listed repository should be deprecated if:
 * [HeroSvm](http://www.cenparmi.concordia.ca/~people/jdong/HeroSvm.html) -  Implements SVM classification, and is distributed as a dynamic link library for Windows. Kernels: linear, polynomial, radial basis function.
 * [SvmFu](http://five-percent-nation.mit.edu/SvmFu/) - A package for SVM classification. Kernels: linear, polynomial, and Gaussian radial basis function.
 * [TinySVM](http://chasen.org/~taku/software/TinySVM/) - An  implementation of C-classification and C-regression which uses sparse vector representation.
-* [
+* [Tree Kernels](http://ai-nlp.info.uniroma2.it/moschitti/Tree-Kernel.htm)- An extension of SVMlight, obtained by encoding tree kernels. Available as binaries for Windows, Linux, Mac-OSx, and Solaris.
+
+ <a name="matlab"></a>
+## MATLAB
+* [MATLAB SVM Toolbox](http://www.isis.ecs.soton.ac.uk/resources/svminfo/) - It implements SVM classification and regression with various kernels: linear, polynomial, Gaussian radial basis function, exponential radial basis function, neural (tanh), Fourier series, spline, and B spline. 
+* [Spider](http://www.kyb.tuebingen.mpg.de/bs/people/spider/) - Spider is an object-oriented environment for machine learning in MATLAb that implements SVM multi-class classification and regression.
+* [LearnSC](http://www.support-vector.ws/html/downloads.html) - MATLAB scripts for the book <i>Learning and Soft Computing<i> by Kecman, implementing SVM classification and regression. 
