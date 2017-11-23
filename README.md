@@ -3,8 +3,7 @@ A curated list of awesome Support Vector Machines(SVM) frameworks, libraries and
 If you want to contribute to this list (please do), send me a pull request.
 Also, a listed repository should be deprecated if:
 
-* Repository's owner explicitly say that "this library is not maintained".
-* Not committed for long time (2~3 years).
+
 
 ## Table of contents
 <!-- MarkdownTOC depth=4 -->
